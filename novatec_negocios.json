@@ -1,0 +1,436 @@
+{
+    "novatec": [       
+        {
+            "categoria": "Negócios",
+            "livros": [
+                {
+                    "titulo": "A Empresa Conectada",
+                    "autor": "Dave Gray / Thomas Vander Wal",
+                    "ano": 2013,
+                    "paginas": 360,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223345.gif"
+                },
+                {
+                    "titulo": "Métricas",
+                    "autor": "Martin Klubeck",
+                    "ano": 2012,
+                    "paginas": 368,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222980.gif"
+                },
+                {
+                    "titulo": "Gerenciamento de Projetos Sem Crise",
+                    "autor": "Bart Gerardi",
+                    "ano": 2012,
+                    "paginas": 272,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222997.gif"
+                },
+                {
+                    "titulo": "Service Desk Corporativo",
+                    "autor": "Rubem Melendez Filho",
+                    "ano": 2011,
+                    "paginas": 376,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222690.gif"
+                },
+                {
+                    "titulo": "Mineração de Dados da Web Social",
+                    "autor": "Matthew A. Russell",
+                    "ano": 2011,
+                    "paginas": 360,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222454.gif"
+                },
+                {
+                    "titulo": "Como saber se um negócio é bom (Antes de fazer negócio)",
+                    "autor": "Paulo Strelczuk",
+                    "ano": 2011,
+                    "paginas": 224,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222553.gif"
+                },
+                {
+                    "titulo": "Gestão de Help Desk e Service Desk",
+                    "autor": "Roberto Cohen",
+                    "ano": 2011,
+                    "paginas": 296,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222768.gif"
+                },
+                {
+                    "titulo": "Programando para iPhone e iPad - 2ª Edição",
+                    "autor": "André Milani",
+                    "ano": 2014,
+                    "paginas": 472,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223949.gif"
+                },
+                {
+                    "titulo": "AWS para Desenvolvedores",
+                    "autor": "Ricardo R. Lecheta",
+                    "ano": 2014,
+                    "paginas": 504,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223932.gif"
+                },
+                {
+                    "titulo": "Temas em Magento",
+                    "autor": "André Gugliotti",
+                    "ano": 2014,
+                    "paginas": 208,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223963.gif"
+                },
+                {
+                    "titulo": "jQuery - A Biblioteca do Programador JavaScript - 3ª Edição",
+                    "autor": "Maurício Samy Silva",
+                    "ano": 2013,
+                    "paginas": 544,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223871.gif"
+                },
+                {
+                    "titulo": "Java Guia do Programador - 2ª Edição",
+                    "autor": "Peter Jandl Junior",
+                    "ano": 2013,
+                    "paginas": 640,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223703.gif"
+                },
+                {
+                    "titulo": "Desenvolvendo seu Primeiro Aplicativo Android",
+                    "autor": "Luiz Carlos Querino Filho",
+                    "ano": 2013,
+                    "paginas": 248,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223789.gif"
+                },
+                {
+                    "titulo": "Desenvolvendo para iPhone e iPad - 2ª Edição",
+                    "autor": "Ricardo R. Lecheta",
+                    "ano": 2013,
+                    "paginas": 784,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223840.gif"
+                },
+                {
+                    "titulo": "Python Cookbook",
+                    "autor": "David Beazley / Brian K. Jones",
+                    "ano": 2013,
+                    "paginas": 720,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223321.gif"
+                },
+                {
+                    "titulo": "Git - Guia Prático",
+                    "autor": "Richard E. Silverman",
+                    "ano": 2013,
+                    "paginas": 208,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223796.gif"
+                },
+                {
+                    "titulo": "Aprenda a Programar",
+                    "autor": "Cesar Brod",
+                    "ano": 2013,
+                    "paginas": 288,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223499.gif"
+                },
+                {
+                    "titulo": "Estendendo a jQuery",
+                    "autor": "Keith Wood",
+                    "ano": 2013,
+                    "paginas": 424,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223833.gif"
+                },
+                {
+                    "titulo": "Como Melhorar a Performance de Websites .NET",
+                    "autor": "Alfredo Lotar",
+                    "ano": 2013,
+                    "paginas": 328,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223819.gif"
+                },
+                {
+                    "titulo": "jQuery Mobile - 2ª Edição",
+                    "autor": "Maurício Samy Silva",
+                    "ano": 2013,
+                    "paginas": 384,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223826.gif"
+                },
+                {
+                    "titulo": "Zend Framework Componentes Poderosos para PHP - 2ª Edição",
+                    "autor": "Flávio Gomes da Silva Lisboa",
+                    "ano": 2013,
+                    "paginas": 374,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223659.gif"
+                },
+                {
+                    "titulo": "Padrões de Projeto para o Android",
+                    "autor": "Greg Nudelman",
+                    "ano": 2013,
+                    "paginas": 456,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223581.gif"
+                },
+                {
+                    "titulo": "JavaScript Remoto",
+                    "autor": "Ben Vinegar / Anton Kovalyov",
+                    "ano": 2013,
+                    "paginas": 384,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223727.gif"
+                },
+                {
+                    "titulo": "Web Interativa com Ajax e PHP – 2ª Edição",
+                    "autor": "Juliano Niederauer",
+                    "ano": 2013,
+                    "paginas": 304,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223277.gif"
+                },
+                {
+                    "titulo": "Desenvolvendo para Windows 8",
+                    "autor": "Ricardo R. Lecheta",
+                    "ano": 2013,
+                    "paginas": 624,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223628.gif"
+                },
+                {
+                    "titulo": "Aprendendo Programação iOS",
+                    "autor": "Alasdair Allan",
+                    "ano": 2013,
+                    "paginas": 448,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223635.gif"
+                },
+                {
+                    "titulo": "Criando Sistemas RESTful com PHP e jQuery",
+                    "autor": "Daniel Schmitz",
+                    "ano": 2013,
+                    "paginas": 152,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223604.gif"
+                },
+                {
+                    "titulo": "Web Services em PHP",
+                    "autor": "Lorna Jane Mitchell",
+                    "ano": 2013,
+                    "paginas": 136,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223697.gif"
+                },
+                {
+                    "titulo": "Análise e Design Orientados a Objetos",
+                    "autor": "Hélio Engholm Jr. ",
+                    "ano": 2013,
+                    "paginas": 376,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223406.gif"
+                },
+                {
+                    "titulo": "Design Centrado no Usuário",
+                    "autor": "Travis Lowdermilk",
+                    "ano": 2013,
+                    "paginas": 184,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223666.gif"
+                },
+                {
+                    "titulo": "Aprendendo Padrões de Projeto em PHP",
+                    "autor": "William Sanders",
+                    "ano": 2013,
+                    "paginas": 368,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223437.gif"
+                },
+                {
+                    "titulo": "Aprendendo Unix no OS X Mountain Lion",
+                    "autor": "Dave Taylor",
+                    "ano": 2013,
+                    "paginas": 272,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223598.gif"
+                },
+                {
+                    "titulo": "Segredos do Ninja JavaScript",
+                    "autor": "John Resig / Bear Bibeault",
+                    "ano": 2013,
+                    "paginas": 488,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223284.gif"
+                },
+                {
+                    "titulo": "Aprendendo Cocoa com Objective-C",
+                    "autor": "Paris Buttfield-Addison / Jonathon Manning",
+                    "ano": 2013,
+                    "paginas": 368,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223420.gif"
+                },
+                {
+                    "titulo": "Lojas Virtuais com Magento",
+                    "autor": "André Gugliotti",
+                    "ano": 2013,
+                    "paginas": 240,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223482.gif"
+                },
+                {
+                    "titulo": "Dominando o Android: do básico ao avançado",
+                    "autor": "Nelson Glauber",
+                    "ano": 2014,
+                    "paginas": 1000,
+                    "capa": "http://novatec.com.br/figuras/capas/main/DominandoAndroid.gif"
+                },                
+                {
+                    "titulo": "Google Android - 3ª Edição",
+                    "autor": "Ricardo R. Lecheta",
+                    "ano": 2013,
+                    "paginas": 824,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223444.gif"
+                },
+                {
+                    "titulo": "Criando Aplicativos para iPhone e iPad",
+                    "autor": "Luiz Carlos Querino Filho",
+                    "ano": 2013,
+                    "paginas": 472,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223178.gif"
+                },
+                {
+                    "titulo": "Criando Relatórios com PHP - 2ª Edição",
+                    "autor": "Pablo Dall´Oglio",
+                    "ano": 2013,
+                    "paginas": 408,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223529.gif"
+                },
+                {
+                    "titulo": "Construindo Aplicações Node com MongoDB e Backbone",
+                    "autor": "Mike Wilson",
+                    "ano": 2013,
+                    "paginas": 240,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223413.gif"
+                },
+                {
+                    "titulo": "Criando Aplicações PHP com Zend e Dojo - 2ª Edição",
+                    "autor": "Flávio Gomes da Silva Lisboa",
+                    "ano": 2012,
+                    "paginas": 304,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223062.gif"
+                },
+                {
+                    "titulo": "Construindo Aplicativos Android com HTML, CSS e JavaScript",
+                    "autor": "Jonathan Stark / Brian Jepson",
+                    "ano": 2012,
+                    "paginas": 200,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223253.gif"
+                },
+                {
+                    "titulo": "PHP e MVC com CodeIgniter",
+                    "autor": "Ademir Cristiano Gabardo",
+                    "ano": 2012,
+                    "paginas": 288,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223338.gif"
+                },
+                {
+                    "titulo": "Expressões Regulares – Uma Abordagem Divertida - 4ª Edição",
+                    "autor": "Aurelio Marinho Jargas",
+                    "ano": 2012,
+                    "paginas": 224,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223376.gif"
+                },
+                {
+                    "titulo": "Android Cookbook",
+                    "autor": "Ian F. Darwin",
+                    "ano": 2012,
+                    "paginas": 672,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223239.gif"
+                },
+                {
+                    "titulo": "Introdução às Expressões Regulares",
+                    "autor": "Michael Fitzgerald",
+                    "ano": 2012,
+                    "paginas": 160,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223307.gif"
+                },
+                {
+                    "titulo": "Programação Funcional para Desenvolvedores Java",
+                    "autor": "Dean Wampler",
+                    "ano": 2012,
+                    "paginas": 112,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223161.gif"
+                },
+                {
+                    "titulo": "Construindo Aplicativos Móveis com C#",
+                    "autor": "Greg Shackles",
+                    "ano": 2012,
+                    "paginas": 200,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223222.gif"
+                },
+                {
+                    "titulo": "Construindo Aplicativos Móveis com Java",
+                    "autor": "Joshua Marinacci",
+                    "ano": 2012,
+                    "paginas": 104,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223147.gif"
+                },
+                {
+                    "titulo": "Ruby on Rails - 2ª Edição Revisada e Ampliada",
+                    "autor": "Rodrigo Urubatan",
+                    "ano": 2012,
+                    "paginas": 336,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223246.gif"
+                },
+                {
+                    "titulo": "Padrões de Design para Aplicativos Móveis",
+                    "autor": "Theresa Neil",
+                    "ano": 2012,
+                    "paginas": 208,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223192.gif"
+                },
+                {
+                    "titulo": "PHP-GTK - 3ª Edição",
+                    "autor": "Pablo Dall´Oglio",
+                    "ano": 2012,
+                    "paginas": 400,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575223093.gif"
+                },
+                {
+                    "titulo": "jQuery UI",
+                    "autor": "Maurício Samy Silva",
+                    "ano": 2012,
+                    "paginas": 736,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222966.gif"
+                },
+                {
+                    "titulo": "iPhone na Prática",
+                    "autor": "Fabio Perez Marzullo",
+                    "ano": 2012,
+                    "paginas": 272,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222973.gif"
+                },
+                {
+                    "titulo": "Objective-C Fundamental",
+                    "autor": "Christopher K. Fairbairn / Johannes Fahrenkrug / Collin Ruffenach ",
+                    "ano": 2012,
+                    "paginas": 400,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222911.gif"
+                },
+                {
+                    "titulo": "A Arte de Escrever Programas Legíveis",
+                    "autor": "Dustin Boswell / Trevor Foucher",
+                    "ano": 2012,
+                    "paginas": 212,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222942.gif"
+                },
+                {
+                    "titulo": "Google Android para Tablets",
+                    "autor": "Ricardo R. Lecheta",
+                    "ano": 2012,
+                    "paginas": 448,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222928.gif"
+                },
+                {
+                    "titulo": "Programação Java em Ambiente Distribuído",
+                    "autor": "Douglas Rocha Mendes",
+                    "ano": 2011,
+                    "paginas": 496,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222621.gif"
+                },
+                {
+                    "titulo": "HTML5 - A Linguagem de Marcação que Revolucionou a Web",
+                    "autor": "Maurício Samy Silva",
+                    "ano": 2011,
+                    "paginas": 320,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222614.gif"
+                },
+                {
+                    "titulo": "Expressões Regulares Cookbook",
+                    "autor": "Jan Goyvaerts / Steven Levithan",
+                    "ano": 2011,
+                    "paginas": 560,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222799.gif"
+                },
+                {
+                    "titulo": "Desenvolvendo Websites com PHP - 2ª Edição",
+                    "autor": "Juliano Niederauer",
+                    "ano": 2011,
+                    "paginas": 304,
+                    "capa": "http://www.novatec.com.br/figuras/capas/9788575222348.gif"
+                }
+            ]
+        }   
+    ]
+}
