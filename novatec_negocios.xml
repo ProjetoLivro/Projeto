@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<novatec>
+   <categorias>
+      <categoria>
+         <categoria>Negócios</categoria>
+         <livros>
+            <livro>
+               <ano>2013</ano>
+               <autor>Dave Gray / Thomas Vander Wal</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223345.gif</capa>
+               <paginas>360</paginas>
+               <titulo>A Empresa Conectada</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Martin Klubeck</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222980.gif</capa>
+               <paginas>368</paginas>
+               <titulo>Métricas</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Bart Gerardi</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222997.gif</capa>
+               <paginas>272</paginas>
+               <titulo>Gerenciamento de Projetos Sem Crise</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Rubem Melendez Filho</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222690.gif</capa>
+               <paginas>376</paginas>
+               <titulo>Service Desk Corporativo</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Matthew A. Russell</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222454.gif</capa>
+               <paginas>360</paginas>
+               <titulo>Mineração de Dados da Web Social</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Paulo Strelczuk</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222553.gif</capa>
+               <paginas>224</paginas>
+               <titulo>Como saber se um negócio é bom (Antes de fazer negócio)</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Roberto Cohen</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222768.gif</capa>
+               <paginas>296</paginas>
+               <titulo>Gestão de Help Desk e Service Desk</titulo>
+            </livro>
+            <livro>
+               <ano>2014</ano>
+               <autor>André Milani</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223949.gif</capa>
+               <paginas>472</paginas>
+               <titulo>Programando para iPhone e iPad - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2014</ano>
+               <autor>Ricardo R. Lecheta</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223932.gif</capa>
+               <paginas>504</paginas>
+               <titulo>AWS para Desenvolvedores</titulo>
+            </livro>
+            <livro>
+               <ano>2014</ano>
+               <autor>André Gugliotti</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223963.gif</capa>
+               <paginas>208</paginas>
+               <titulo>Temas em Magento</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Maurício Samy Silva</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223871.gif</capa>
+               <paginas>544</paginas>
+               <titulo>jQuery - A Biblioteca do Programador JavaScript - 3ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Peter Jandl Junior</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223703.gif</capa>
+               <paginas>640</paginas>
+               <titulo>Java Guia do Programador - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Luiz Carlos Querino Filho</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223789.gif</capa>
+               <paginas>248</paginas>
+               <titulo>Desenvolvendo seu Primeiro Aplicativo Android</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Ricardo R. Lecheta</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223840.gif</capa>
+               <paginas>784</paginas>
+               <titulo>Desenvolvendo para iPhone e iPad - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>David Beazley / Brian K. Jones</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223321.gif</capa>
+               <paginas>720</paginas>
+               <titulo>Python Cookbook</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Richard E. Silverman</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223796.gif</capa>
+               <paginas>208</paginas>
+               <titulo>Git - Guia Prático</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Cesar Brod</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223499.gif</capa>
+               <paginas>288</paginas>
+               <titulo>Aprenda a Programar</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Keith Wood</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223833.gif</capa>
+               <paginas>424</paginas>
+               <titulo>Estendendo a jQuery</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Alfredo Lotar</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223819.gif</capa>
+               <paginas>328</paginas>
+               <titulo>Como Melhorar a Performance de Websites .NET</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Maurício Samy Silva</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223826.gif</capa>
+               <paginas>384</paginas>
+               <titulo>jQuery Mobile - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Flávio Gomes da Silva Lisboa</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223659.gif</capa>
+               <paginas>374</paginas>
+               <titulo>Zend Framework Componentes Poderosos para PHP - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Greg Nudelman</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223581.gif</capa>
+               <paginas>456</paginas>
+               <titulo>Padrões de Projeto para o Android</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Ben Vinegar / Anton Kovalyov</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223727.gif</capa>
+               <paginas>384</paginas>
+               <titulo>JavaScript Remoto</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Juliano Niederauer</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223277.gif</capa>
+               <paginas>304</paginas>
+               <titulo>Web Interativa com Ajax e PHP – 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Ricardo R. Lecheta</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223628.gif</capa>
+               <paginas>624</paginas>
+               <titulo>Desenvolvendo para Windows 8</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Alasdair Allan</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223635.gif</capa>
+               <paginas>448</paginas>
+               <titulo>Aprendendo Programação iOS</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Daniel Schmitz</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223604.gif</capa>
+               <paginas>152</paginas>
+               <titulo>Criando Sistemas RESTful com PHP e jQuery</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Lorna Jane Mitchell</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223697.gif</capa>
+               <paginas>136</paginas>
+               <titulo>Web Services em PHP</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Hélio Engholm Jr.</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223406.gif</capa>
+               <paginas>376</paginas>
+               <titulo>Análise e Design Orientados a Objetos</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Travis Lowdermilk</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223666.gif</capa>
+               <paginas>184</paginas>
+               <titulo>Design Centrado no Usuário</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>William Sanders</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223437.gif</capa>
+               <paginas>368</paginas>
+               <titulo>Aprendendo Padrões de Projeto em PHP</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Dave Taylor</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223598.gif</capa>
+               <paginas>272</paginas>
+               <titulo>Aprendendo Unix no OS X Mountain Lion</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>John Resig / Bear Bibeault</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223284.gif</capa>
+               <paginas>488</paginas>
+               <titulo>Segredos do Ninja JavaScript</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Paris Buttfield-Addison / Jonathon Manning</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223420.gif</capa>
+               <paginas>368</paginas>
+               <titulo>Aprendendo Cocoa com Objective-C</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>André Gugliotti</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223482.gif</capa>
+               <paginas>240</paginas>
+               <titulo>Lojas Virtuais com Magento</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Ricardo R. Lecheta</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223444.gif</capa>
+               <paginas>824</paginas>
+               <titulo>Google Android - 3ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Luiz Carlos Querino Filho</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223178.gif</capa>
+               <paginas>472</paginas>
+               <titulo>Criando Aplicativos para iPhone e iPad</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Pablo Dall´Oglio</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223529.gif</capa>
+               <paginas>408</paginas>
+               <titulo>Criando Relatórios com PHP - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Mike Wilson</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223413.gif</capa>
+               <paginas>240</paginas>
+               <titulo>Construindo Aplicações Node com MongoDB e Backbone</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Flávio Gomes da Silva Lisboa</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223062.gif</capa>
+               <paginas>304</paginas>
+               <titulo>Criando Aplicações PHP com Zend e Dojo - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Jonathan Stark / Brian Jepson</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223253.gif</capa>
+               <paginas>200</paginas>
+               <titulo>Construindo Aplicativos Android com HTML, CSS e JavaScript</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Ademir Cristiano Gabardo</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223338.gif</capa>
+               <paginas>288</paginas>
+               <titulo>PHP e MVC com CodeIgniter</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Aurelio Marinho Jargas</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223376.gif</capa>
+               <paginas>224</paginas>
+               <titulo>Expressões Regulares – Uma Abordagem Divertida - 4ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Ian F. Darwin</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223239.gif</capa>
+               <paginas>672</paginas>
+               <titulo>Android Cookbook</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Michael Fitzgerald</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223307.gif</capa>
+               <paginas>160</paginas>
+               <titulo>Introdução às Expressões Regulares</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Dean Wampler</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223161.gif</capa>
+               <paginas>112</paginas>
+               <titulo>Programação Funcional para Desenvolvedores Java</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Greg Shackles</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223222.gif</capa>
+               <paginas>200</paginas>
+               <titulo>Construindo Aplicativos Móveis com C#</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Joshua Marinacci</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223147.gif</capa>
+               <paginas>104</paginas>
+               <titulo>Construindo Aplicativos Móveis com Java</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Rodrigo Urubatan</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223246.gif</capa>
+               <paginas>336</paginas>
+               <titulo>Ruby on Rails - 2ª Edição Revisada e Ampliada</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Theresa Neil</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223192.gif</capa>
+               <paginas>208</paginas>
+               <titulo>Padrões de Design para Aplicativos Móveis</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Pablo Dall´Oglio</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223093.gif</capa>
+               <paginas>400</paginas>
+               <titulo>PHP-GTK - 3ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Maurício Samy Silva</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222966.gif</capa>
+               <paginas>736</paginas>
+               <titulo>jQuery UI</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Fabio Perez Marzullo</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222973.gif</capa>
+               <paginas>272</paginas>
+               <titulo>iPhone na Prática</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Christopher K. Fairbairn / Johannes Fahrenkrug / Collin Ruffenach</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222911.gif</capa>
+               <paginas>400</paginas>
+               <titulo>Objective-C Fundamental</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Dustin Boswell / Trevor Foucher</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222942.gif</capa>
+               <paginas>212</paginas>
+               <titulo>A Arte de Escrever Programas Legíveis</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Ricardo R. Lecheta</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222928.gif</capa>
+               <paginas>448</paginas>
+               <titulo>Google Android para Tablets</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Douglas Rocha Mendes</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222621.gif</capa>
+               <paginas>496</paginas>
+               <titulo>Programação Java em Ambiente Distribuído</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Maurício Samy Silva</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222614.gif</capa>
+               <paginas>320</paginas>
+               <titulo>HTML5 - A Linguagem de Marcação que Revolucionou a Web</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Jan Goyvaerts / Steven Levithan</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222799.gif</capa>
+               <paginas>560</paginas>
+               <titulo>Expressões Regulares Cookbook</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Juliano Niederauer</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222348.gif</capa>
+               <paginas>304</paginas>
+               <titulo>Desenvolvendo Websites com PHP - 2ª Edição</titulo>
+            </livro>
+         </livros>
+      </categoria>
+   </categorias>
+</novatec>
