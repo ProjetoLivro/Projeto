@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<novatec>
+   <categorias>
+      <categoria>
+         <categoria>Finanças</categoria>
+         <livros>
+            <livro>
+               <ano>2012</ano>
+               <autor>Murillo Lo Visco</autor>
+               <capa>http://novatec.com.br/figuras/capas/9788575223017.gif</capa>
+               <paginas>304</paginas>
+               <titulo>Imposto de Renda no Mercado de Ações</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Newton Linchen / Tarcísio S. Peres</autor>
+               <capa>http://novatec.com.br/figuras/capas/9788575222881.gif</capa>
+               <paginas>208</paginas>
+               <titulo>Lucrando com os Tubarões</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Edgar Gomes de Abreu</autor>
+               <capa>http://novatec.com.br/figuras/capas/9788575222713.gif</capa>
+               <paginas>320</paginas>
+               <titulo>Certificação Anbid CPA-20 - 2ª Edição Revisada e Ampliada</titulo>
+            </livro>
+         </livros>
+      </categoria>
+   </categorias>
+</novatec>
