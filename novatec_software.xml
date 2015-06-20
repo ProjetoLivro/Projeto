@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<novatec>
+   <categorias>
+      <categoria>
+         <categoria>Softwares</categoria>
+         <livros>
+            <livro>
+               <ano>2013</ano>
+               <autor>Júlio César Scheiffer Saleh</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223536.gif</capa>
+               <paginas>176</paginas>
+               <titulo>Relatórios Avançados com Excel 2013</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Cesar Brod</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223765.gif</capa>
+               <paginas>192</paginas>
+               <titulo>Scrum Guia Prático para Projetos Ágeis</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Chris Vander Mey</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223314.gif</capa>
+               <paginas>264</paginas>
+               <titulo>Lançamento de Software</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Max Kanat-Alexander</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223024.gif</capa>
+               <paginas>112</paginas>
+               <titulo>As Leis Fundamentais do Projeto de Software</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Andrew Pham / Phuong-Van Pham</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222850.gif</capa>
+               <paginas>288</paginas>
+               <titulo>Scrum em Ação</titulo>
+            </livro>
+         </livros>
+      </categoria>
+   </categorias>
+</novatec>
