@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<novatec>
+   <categorias>
+      <categoria>
+         <categoria>Marketing</categoria>
+         <livros>
+            <livro>
+               <ano>2013</ano>
+               <autor>Gilberto Musto</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223802.gif</capa>
+               <paginas>192</paginas>
+               <titulo>Mapa do Voto - Como Ganhar sua Próxima Eleição - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Lilian S. Gonçalves</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223710.gif</capa>
+               <paginas>192</paginas>
+               <titulo>Neuromarketing Aplicado à Redação Publicitária</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>Michelle Accardi-Petersen</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222683.gif</capa>
+               <paginas>264</paginas>
+               <titulo>Marketing Ágil</titulo>
+            </livro>
+            <livro>
+               <ano>2013</ano>
+               <autor>DJ Waldow / Jason Falls</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223390.gif</capa>
+               <paginas>304</paginas>
+               <titulo>Guia Definitivo de Email Marketing</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Eric Enge / Stephan Spencer / Rand Fishkin / Jessie C. Stricchiola</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223086.gif</capa>
+               <paginas>752</paginas>
+               <titulo>A Arte de SEO - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Clay Johnson</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222775.gif</capa>
+               <paginas>192</paginas>
+               <titulo>A Dieta da Informação</titulo>
+            </livro>
+            <livro>
+               <ano>2012</ano>
+               <autor>Martha Gabriel</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575223048.gif</capa>
+               <paginas>248</paginas>
+               <titulo>SEM e SEO - Dominando o Marketing de Busca - 2ª Edição</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Conrado Adolpho</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222751.gif</capa>
+               <paginas>904</paginas>
+               <titulo>Os 8 Ps do Marketing Digital</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Carolina Lima</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222737.gif</capa>
+               <paginas>160</paginas>
+               <titulo>Como Acabar com sua #empresa em Apenas 140 Caracteres</titulo>
+            </livro>
+            <livro>
+               <ano>2011</ano>
+               <autor>Khalid Saleh / Ayat Shukairy</autor>
+               <capa>http://www.novatec.com.br/figuras/capas/9788575222645.gif</capa>
+               <paginas>280</paginas>
+               <titulo>Otimização de Conversão</titulo>
+            </livro>
+         </livros>
+      </categoria>
+   </categorias>
+</novatec>
